@@ -98,3 +98,5 @@ require (
 	google.golang.org/protobuf v1.35.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/amikos-tech/chroma-go => github.com/pedjak/chroma-go v0.0.0-20250513144347-20af1a35d9df
